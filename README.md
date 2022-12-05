@@ -1,5 +1,5 @@
 # Joshua Cotton 
-## (He/Him)
+### (He/Him)
 
 **`3D Animator (Youtuber/Game Developer/Programmer)`**
 
