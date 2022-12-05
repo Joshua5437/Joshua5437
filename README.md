@@ -2,8 +2,7 @@
 
 **`3D Animator (Youtuber/Game Developer/Programmer)`**
 
-(He/Him)
-
+(He/Him) 
 (Insert biography here)
 Need to know that I develop 3D scenarios, models, and films. 
 
