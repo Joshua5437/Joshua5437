@@ -1,12 +1,12 @@
 # Joshua Cotton
-😄 Pronouns: He/Him
+### 😄 Pronouns: He/Him
 
 **`3D Animator (Youtuber/Game Developer/Programmer)`**
 
 (Insert biography here)
 Need to know that I develop 3D scenarios, models, and films. 
 
-"[Lil.Browndude][youtube]"
+"[Lil.browndude][youtube]"
 
 ---
 
@@ -26,6 +26,7 @@ Need to know that I develop 3D scenarios, models, and films.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />    
           
 #
