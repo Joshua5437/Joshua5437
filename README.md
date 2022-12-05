@@ -33,9 +33,7 @@ Need to know that I develop 3D scenarios, models, and films.
 
 <details>
   <summary><h3> 👋 A Little About Me</h3></summary>
-  Hello, I am Joshua Cotton and here is a little about myself.
-          
-  I went to school at West Marion High School and graduated third in my class. I participated in many
+  Hello, I am Joshua Cotton and here is a little about myself. I went to school at West Marion High School and graduated third in my class. I participated in many
   after school organizations such as Science Olympiad, Mu Alpha Theta, FFA, Art Club, Student Council, and Speech and Debate. I thoroughly enjoyed being active at my
   school and helping out where I could. I eventually went on to attend college at Mississippi State University to acquire a degree in Computer Engineering. I am now
   currently a senior and am looking for an internship/full-time position after college.
@@ -47,8 +45,6 @@ Need to know that I develop 3D scenarios, models, and films.
   Another one of my passions is volunteering. I normally aim to volunteer once every school year, but I usually end up volunteering more than that. I have been able to
   have some wholesome experiences volunteering for children centers in the local Starkville community. Not only does volunteering allow me the opportunity to help
   others, but it also allows me to help myself. Volunteering always brightens my mood and leaves me feeling more grateful for those in my life.
-
-### Hi there 👋
 
 <!--
 **Joshua5437/Joshua5437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
