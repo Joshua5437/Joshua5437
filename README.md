@@ -6,7 +6,7 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 
 Need to contact me?
 
-📧 jic77@msstate.edu
+📧 School: jic77@msstate.edu                    📧 Personal: jicotton534@outlook.com
 
 ---
 
