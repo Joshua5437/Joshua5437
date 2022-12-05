@@ -1,3 +1,23 @@
+# Joshua Cotton
+
+**`3D Animator (Youtuber/Game Developer/Programmer)`**
+
+(Insert biography here)
+Need to know that I develop 3D scenarios, models, and films. 
+
+"[Lil.Browndude][youtube]"
+
+---
+
+### Programming Languages
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+#
+
+<details>
+  <summary><h3> A Little About Me</h3></summary>
+    I like bread!
+
 ### Hi there 👋
 
 <!--
