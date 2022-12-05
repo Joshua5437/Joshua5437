@@ -32,7 +32,7 @@ Need to know that I develop 3D scenarios, models, and films.
 #
 
 <details>
-  <summary><h3> 👋 A Little About Me</h3></summary>
+  <summary><h2> 👋 A Little About Me</h2></summary>
   
   Hello, I am Joshua Cotton and here is a little about myself.
           
