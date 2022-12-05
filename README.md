@@ -16,7 +16,13 @@ Need to know that I develop 3D scenarios, models, and films.
 
 <details>
   <summary><h3> A Little About Me</h3></summary>
-    I like bread!
+    Hello, I am Joshua Cotton and here is a little about myself. 
+
+I went to school at West Marion High School and graduated third in my class. I participated in many after school organizations such as Science Olympiad, Mu Alpha Theta, FFA, Art Club, Student Council, and Speech and Debate. I thoroughly enjoyed being active at my school and helping out where I could. I eventually went on to attend college at Mississippi State University to acquire a degree in Computer Engineering. I am now currently a senior and am looking for an internship/full-time position after college.
+
+One of my passions are becoming environmentally friendly. Everything from reducing E-waste to electric vehicles fascinates me. It has been a passion of mine for longer than I can remember. I believe it is critical to take care of the planet that we live on, and I want to leave future generations with a better planet than our generation inherited. 
+
+Another one of my passions is volunteering. I normally aim to volunteer once every school year, but I usually end up volunteering more than that. I have been able to have some wholesome experiences volunteering for children centers in the local Starkville community. Not only does volunteering allow me the opportunity to help others, but it also allows me to help myself. Volunteering always brightens my mood and leaves me feeling more grateful for those in my life.
 
 ### Hi there 👋
 
