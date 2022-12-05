@@ -1,5 +1,4 @@
-# Joshua Cotton
-### 😄 Pronouns: He/Him
+# Joshua Cotton ### 😄 Pronouns: He/Him
 
 **`3D Animator (Youtuber/Game Developer/Programmer)`**
 
