@@ -6,7 +6,7 @@
 (Insert biography here)
 Need to know that I develop 3D scenarios, models, and films. 
 
-- "[Lil.browndude][youtube]"
+- "[Lil.browndude](https://www.youtube.com/@lil.browndude5278)"
 
 ---
 
