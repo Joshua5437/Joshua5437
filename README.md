@@ -1,4 +1,5 @@
 # Joshua Cotton
+😄 Pronouns: He/Him
 
 **`3D Animator (Youtuber/Game Developer/Programmer)`**
 
@@ -16,7 +17,7 @@ Need to know that I develop 3D scenarios, models, and films.
 
 <details>
   <summary><h3> A Little About Me</h3></summary>
-  Hello, I am Joshua Cotton and here is a little about myself.
+  👋 Hello, I am Joshua Cotton and here is a little about myself.
   
   
   I went to school at West Marion High School and graduated third in my class. I participated in many after school organizations such as Science Olympiad, Mu Alpha
