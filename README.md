@@ -1,6 +1,6 @@
 
 # Joshua Cotton
-**`Game Developer (Animator/Programmer/Youtuber)`**
+**`Game Developer (Software Developer/3D Animater/Coder)`**
 
 I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Computer Engineering. I enjoy producing 3D content, which leads me to undergraduate research. I am currently doing undergraduate research developing VR scenarios that teach proper safety protocol in construction work zones. Additionally, I produce insightful and captivating short films utilizing Blender. <!-- Check them out on my YouTube channel, [Lil.browndude](https://www.youtube.com/@lil.browndude5278)! -->
 
