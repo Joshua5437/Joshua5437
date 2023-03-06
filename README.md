@@ -6,7 +6,7 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 
 ### 📸  Animation Projects
 
-[![Animation Projects](https://i.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLC7kI2J3tWXPdIivAcoCziFN7C0Sw)](https://youtu.be/Stu2O4KPZDo)
+[![Animation Projects](https://www.youtube.com/embed/Stu2O4KPZDo)](https://youtu.be/Stu2O4KPZDo)
 
 <img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="200" height="121" alt="Animation Projects">
 
