@@ -8,6 +8,9 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 
 [![Animation Projects](https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg)](https://youtu.be/Stu2O4KPZDo)
 
+<img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="200" height="121" alt="Photo of 3 cats">
+
+
 <h4> Need to contact me?</h4>
 📧 jic77@msstate.edu <br />
 ☎️ 601-522-6433
