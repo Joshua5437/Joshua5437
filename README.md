@@ -4,9 +4,10 @@
 
 I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Computer Engineering. I enjoy producing 3D content, which leads me to undergraduate research. I am currently doing undergraduate research developing VR scenarios that teach proper safety protocol in construction work zones. Additionally, I take up Blender in my free time, producing small projects of mine. Check them out by clicking the image below! <!-- Check them out on my YouTube channel, [My Blender Projects](https://youtu.be/Stu2O4KPZDo)! -->
 
-### 📸  Animation Projects
+### 📸  Blender & VR Projects
 
 <a href="https://youtu.be/Stu2O4KPZDo" title="Animation Projects"><img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="256" height="144"></a>
+<a href="https://www.youtube.com/watch?v=pbRjO_t0o9s" title="Animation Projects"><img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="256" height="144"></a>
 
 <h4> Need to contact me?</h4>
 📧 jic77@msstate.edu <br />
