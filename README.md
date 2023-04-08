@@ -10,8 +10,7 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 <a href="https://www.youtube.com/watch?v=pbRjO_t0o9s" title="Nucor - Virtual Reality PPE Training"><img src="https://i.ytimg.com/vi/pbRjO_t0o9s/maxresdefault.jpg" width="256" height="144"></a>
 
 <h4> Need to contact me?</h4>
-📧 jic77@msstate.edu <br />
-☎️ 601-522-6433
+📧 jicotton531@outlook.com <br />
 
 ---
 
