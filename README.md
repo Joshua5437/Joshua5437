@@ -8,7 +8,7 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 
 <a href="https://youtu.be/Stu2O4KPZDo" title="Blender Projects"><img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="256" height="144"></a>
 <a href="https://youtu.be/pbRjO_t0o9s" title="Nucor - Virtual Reality PPE Training"><img src="https://i.ytimg.com/vi/pbRjO_t0o9s/maxresdefault.jpg" width="256" height="144"></a>
-<a href="https://youtu.be/SoVDfkQcUlY" title="Other 2D and 3D Art">><img src="https://i.ytimg.com/vi/SoVDfkQcUlY/hqdefault.jpg" width="256" height="144"></a>
+<a cropped href="https://youtu.be/SoVDfkQcUlY" title="Other 2D and 3D Art"><img src="https://i.ytimg.com/vi/SoVDfkQcUlY/hqdefault.jpg" width="256" height="144"></a>
 
  src=”https://example.com/myimage.png”>
 .cropped { width: 150px; height: 150px; overflow: hidden; } .cropped img { margin: -150px 0px 0px -150px; }
