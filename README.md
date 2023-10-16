@@ -7,7 +7,7 @@ I'm Joshua Cotton. I am a senior at Mississippi State University, majoring in Co
 ### 📸  Blender & VR Projects
 
 <a href="https://youtu.be/Stu2O4KPZDo" title="Blender Projects"><img src="https://i3.ytimg.com/vi/Stu2O4KPZDo/maxresdefault.jpg" width="256" height="144"></a>
-<a href="https://youtu.be/pbRjO_t0o9s" title="Nucor - Virtual Reality PPE Training"><img src="https://i.ytimg.com/vi/pbRjO_t0o9s/maxresdefault.jpg" width="256" height="144"></a>
+<a href="https://youtu.be/pbRjO_t0o9s" title="Nucor - Virtual Reality PPE Training"><img src="https://i9.ytimg.com/vi_webp/pbRjO_t0o9s/mqdefault.webp?v=652da672&sqp=CPzKtqkG&rs=AOn4CLCfh5ZoUgDJffyRimFYKMFF8AKJbA" width="256" height="144"></a>
 <a href="https://youtu.be/SoVDfkQcUlY" title="Other 2D and 3D Art"><img src="https://i9.ytimg.com/vi_webp/SoVDfkQcUlY/mqdefault.webp?v=652da3c4&sqp=CKTGtqkG&rs=AOn4CLAuZN59f-UbE8ZuiPX5XaUvJzEViQ" width="256" height="144"></a>
 
 <h4> Need to contact me?</h4>
